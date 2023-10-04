@@ -68,7 +68,7 @@ We also recommend dumping the Friend List application. If you wish to play onlin
 This can be installed like any other game dump in the next section.
 
 1. Select `Dump Wii U applications (e.g. Friend List, eShop etc.)`
-2. Select `Friend List` from the list 
+1. Select `Friend List` from the list 
 1. Press `+` then select `[Confirm]` to begin dumping
 1. When finished, go back to the Dumpling main menu
 
